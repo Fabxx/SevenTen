@@ -1,5 +1,10 @@
 # SevenTen
-Windows 10 to 7 Conversion, tested on 22h2 build
+Windows 10 to 7 Conversion
+
+# Test results
+
+- Windows 10 **21h1**: Explorer flashes after revert8plus installation
+- Windows 10 **22h2**: No issues detected
 
 Link: https://shorturl.at/gtcMC
 
