@@ -6,7 +6,7 @@ Windows 10 to 7 Conversion
 - Windows 10 **21h1**: Explorer flashes after revert8plus installation
 - Windows 10 **22h2**: No issues detected
 
-Link: https://shorturl.at/gtcMC
+Link: https://shorturl.at/EQ2Ro
 
 # Content
 
@@ -20,6 +20,4 @@ Link: https://shorturl.at/gtcMC
 
 # Issue
 
-- Revert8Plus does change the logon UI, but only when logging off or restarting/shutting down the system. The password screen is still windows 10 default.
-
-- AuthUX makes conflicts with revert8Plus
+- The password screen remains windows 10 default until a couple of reboots are made.
