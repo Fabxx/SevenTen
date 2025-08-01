@@ -6,11 +6,12 @@ Windows 10 to 7 Conversion
 - Windows 10 **21h1**: Explorer flashes after revert8plus installation
 - Windows 10 **22h2**: No issues detected
 
-Link: https://shorturl.at/EQ2Ro
+Link: https://shorturl.at/nxDpq
 
 # Content
 
-<img width="1424" height="750" alt="immagine" src="https://github.com/user-attachments/assets/b430f54e-f8fe-4faf-8313-2fcad89b5651" />
+<img width="1381" height="857" alt="immagine" src="https://github.com/user-attachments/assets/c9bdddcf-8587-4711-96ef-fae6f690c627" />
+
 
 
 # Screen
